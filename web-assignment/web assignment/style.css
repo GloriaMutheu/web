@@ -1,0 +1,110 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+/**********Fist two articles********/
+.furniture_decors{
+    border: 0px solid cyan;
+    width: 400px;
+    height: 120px;
+    margin-top: 2%;
+    margin-left: 5%;
+    border-radius: 5%;
+}
+.furniture{
+    display: flex;
+}
+.furniture_decors h2{
+    color: aqua;
+    text-align: center;
+}
+
+/**********last two articles********/
+
+.cute-decors{
+    border: 0px solid cyan;
+    width: 400px;
+    height: 120px;
+    margin-top: 2%;
+    margin-left: 5%;
+    border-radius: 5%;
+
+}
+.decors{
+    display: flex;
+}
+/******sidebar work******************/
+.side-icon{
+display: flex;
+}
+.icon{
+    border: 1px solid black ;
+    width: 140px;
+    height: 255px;
+    margin-top: 2%;
+    margin-left: 2%;
+    border-radius: 2%;
+
+}
+.side{
+    border: 1px solid #000080;
+    width: 240px;
+    height: 255px;
+    margin-top: 2%;
+    margin-left: 2%;
+    border-radius: 2%;
+
+}
+.side img{
+    width: 240px;
+    height: 255px;
+}
+.icon img{
+    width: 140px;
+    height: 255px;
+}
+/******about*********/
+.about{
+    border: 0px solid #3d0099;
+    width: 30%;
+    height: 50px;
+    margin-top: 5%;
+    margin-left: 30%;
+
+}
+.room{
+    display: flex;
+}
+.room img{
+    width: 200px;
+    height: 200px;
+
+}
+.toilet img{
+    width: 300px;
+    height: 400px;
+    float: right;
+}
+/********info********/
+.info{
+    font-size: large;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 15%;
+}
+.decor img{
+    float: right;
+}
+/*******contact*****/
+.contact{
+    text-align: center;
+    font-size: xx-large
+}
+.us{
+    height: 50%;
+    width: 50%;
+    display: flex;
+}
+.contact-info p{
+    align-items: flex;
+}
